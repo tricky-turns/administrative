@@ -1,74 +1,43 @@
-# Privacy Policy
+<section id="privacy-policy">
+  <h1>Privacy Policy</h1>
+  <p><strong>Last Updated:</strong> [06/2025]</p>
+  <p><strong>Applies to:</strong> Tricky Turns on the Pi Network</p>
+  <p><strong>Developed by:</strong> Adaptive Studios</p>
+  <p><em>Tricky Turns</em> is a casual game built on the <strong>Pi Network</strong>. This Privacy Policy explains how we collect and use your information when you interact with the game via the Pi Browser and Pi services like login, tipping, and leaderboards.</p>
 
-**Last Updated: [Insert Date]**  
-**Applies to: Tricky Turns on the Pi Network**  
-**Developed by: Adaptive Studios**
+  <h2>Information We Collect</h2>
+  <ul>
+    <li><strong>Pi Network Identity:</strong> Username and public ID via Pi Login.</li>
+    <li><strong>Gameplay Data:</strong> High scores, achievements, and tips.</li>
+    <li><strong>Log Data:</strong> Browser/device details, usage timestamps, and error traces.</li>
+  </ul>
 
-_Tricky Turns_ is a casual game built and deployed on the **Pi Network** platform. This Privacy Policy describes how Adaptive Studios collects, uses, and protects your information when you interact with the game through the **Pi Browser** and Pi ecosystem services such as Pi Login, tipping, and global leaderboards.
+  <h2>Third-Party Services</h2>
+  <p>The app uses official Pi Network SDKs for login and rewards. For their privacy practices, refer to the
+    <a href="https://minepi.com/privacy-policy" target="_blank">Pi Network Privacy Policy</a>.
+  </p>
 
-By using Tricky Turns on the Pi Network, you agree to the practices described in this policy.
+  <h2>Cookies</h2>
+  <p>This game does not directly use cookies. However, SDKs may use them for session management. You can control cookie preferences in your browser.</p>
 
----
+  <h2>Use of Information</h2>
+  <ul>
+    <li>Identify users through Pi Login</li>
+    <li>Display scores and tips</li>
+    <li>Improve gameplay and debug errors</li>
+  </ul>
+  <p>We do not sell or rent any data.</p>
 
-## Information We Collect
+  <h2>Security</h2>
+  <p>We implement reasonable safeguards but cannot guarantee complete security. Pi Network’s platform helps protect your identity and data.</p>
 
-We collect limited information necessary to operate and improve the game, including:
+  <h2>Children’s Privacy</h2>
+  <p>This game is not intended for children under 13. If such data is accidentally collected, we will promptly delete it. Please contact us if you are aware of this issue.</p>
 
-- **Pi Network Identity (via Pi Login):** Pi username and public user ID used for leaderboards and tipping.
-- **Gameplay Data:** High scores, achievements, and tipping activity.
-- **Log Data:** Browser type, device model, time/date of use, and crash reports.
+  <h2>Changes to This Policy</h2>
+  <p>We may update this policy periodically. Changes will be posted here and become effective immediately.</p>
 
----
-
-## Third-Party Services
-
-The game integrates with official Pi Network services:
-
-- **Pi Login** (for authentication)  
-- **Pi SDKs** (for tipping and leaderboard functionality)
-
-We do not share your information outside the Pi Network ecosystem. For more, refer to the [Pi Network Privacy Policy](https://minepi.com/privacy-policy).
-
----
-
-## Cookies
-
-Tricky Turns does **not** directly use cookies. However, third-party SDKs (e.g., from Pi Network) may store anonymous session data. You may accept or decline cookies through your browser settings.
-
----
-
-## Use of Information
-
-We use your data only to:
-
-- Identify your profile using Pi Login  
-- Display scores and tipping history  
-- Improve gameplay and fix bugs  
-
-Your data is never sold or rented.
-
----
-
-## Security
-
-We apply reasonable safeguards, but no method of transmission or storage is fully secure. The Pi Network’s privacy-preserving architecture helps minimize risk.
-
----
-
-## Children's Privacy
-
-The app is not intended for users under 13. We do not knowingly collect data from children. If you're a parent or guardian and suspect your child has submitted personal information, please contact us.
-
----
-
-## Changes to This Policy
-
-We may update this Privacy Policy from time to time. Changes are effective immediately upon posting on this page.
-
----
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, contact us at:
-
-📧 **digibrosolutions@gmail.com**
+  <h2>Contact Us</h2>
+  <p>If you have any questions, email us at:</p>
+  <p><strong>tricky.turns2025@gmail.com</strong></p>
+</section>
